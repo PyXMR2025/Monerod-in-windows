@@ -1,4 +1,4 @@
-# Monerod-in-windows
+# Monerod on windows
 Use Powershell to install Monero Node on windows.
 Run
 powershell file/file.ps1
